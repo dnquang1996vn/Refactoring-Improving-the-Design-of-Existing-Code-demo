@@ -1,0 +1,21 @@
+{
+  "ia_name": "",
+  "sections": [
+    {
+      "section_name": "",
+      "items": [
+        {
+          "product_name": "",
+          "packaged_type": "",
+          "category": {
+            "name": "A"
+          },
+          "strain": {
+            "name": "",
+            "msw": 0
+          }
+        }
+      ]
+    }
+  ]
+}
